@@ -5,8 +5,8 @@
   description: "The openubmc-ci repo is the repository for managing CI access control"
   type: privacy
 - name: docs
-  description: ""
+  description: "The docs repository contains community documentation"
   type: privacy
 - name: website
-  description: ""
+  description: "openUBMC's official website"
   type: privacy
