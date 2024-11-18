@@ -14,5 +14,5 @@
   description: "The nginx repo is the repository for managing nginx access control"
   type: privacy
 - name: conan-server
-  description: "The authentication repo is the repository for managing conan authentication"
+  description: "The conan-server repo is the repository for managing conan authentication"
   type: privacy
