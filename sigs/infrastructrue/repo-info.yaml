@@ -10,3 +10,9 @@
 - name: website
   description: "openUBMC official website"
   type: privacy
+- name: nginx
+  description: "The nginx repo is the repository for managing nginx access control"
+  type: privacy
+- name: authentication
+  description: "The authentication repo is the repository for managing conan authentication"
+  type: privacy

@@ -16,3 +16,5 @@ repositories:
   - openUBMC/openubmc-ci
   - openUBMC/docs
   - openUBMC/website
+  - openUBMC/nginx
+  - openUBMC/authentication
