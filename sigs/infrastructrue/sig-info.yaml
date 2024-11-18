@@ -17,4 +17,4 @@ repositories:
   - openUBMC/docs
   - openUBMC/website
   - openUBMC/nginx
-  - openUBMC/authentication
+  - openUBMC/conan-server

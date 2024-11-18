@@ -13,6 +13,6 @@
 - name: nginx
   description: "The nginx repo is the repository for managing nginx access control"
   type: privacy
-- name: authentication
+- name: conan-server
   description: "The authentication repo is the repository for managing conan authentication"
   type: privacy
