@@ -26,7 +26,7 @@ sig-info.yaml 文件为yaml格式承载，包含如下基本元素：
 | meeting_url | 字符串 | SIG例会纪要URL |
 | maintainers | 列表   | SIG组所有maintainer名单   |
 | committers | 列表 | SIG组所有committer名单    |
-| repositories | 列表   | SIG组所管辖的码云仓库信息 |
+| repositories | 列表   | SIG组所管辖的GitCode仓库信息 |
 
 注意：
 
@@ -34,7 +34,7 @@ sig-info.yaml 文件为yaml格式承载，包含如下基本元素：
 
 | 字段 | 类型 | 说明 |
 |--|--|--|
-| gitcode_id | 字符串 | gitee ID, 必填 |
+| gitcode_id | 字符串 | GitCode ID, 必填 |
 | name | 字符串 | 姓名(或者网名), 必填 |
 | organization| 字符串 | 所在组织或单位, 选填 |
 | email| 字符串 | 个人邮箱地址, 必填 |
