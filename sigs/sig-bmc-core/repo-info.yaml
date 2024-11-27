@@ -1,0 +1,12 @@
+- name: fructrl
+  description: ""
+  type: privacy
+- name: sensor
+  description: ""
+  type: privacy
+- name: frudata
+  description: ""
+  type: privacy
+- name: hica
+  description: ""
+  type: privacy
