@@ -1,0 +1,19 @@
+name: sig-security
+description:
+created_on: '2024-12-31'
+mailing_list: security@openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/security
+maintainers:
+  - gitcode_id: TacoJay
+    name: 张超
+  - gitcode_id: lwj11223344
+    name: 李文杰
+repositories:
+  - openUBMC/account
+  - openUBMC/session
+  - openUBMC/remote-account
+  - openUBMC/certificate
+  - openUBMC/file-porxy
+  - openUBMC/security-configure
+  - openUBMC/iam
+  - openUBMC/trust

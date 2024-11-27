@@ -1,0 +1,19 @@
+name: sig-docs
+description:
+created_on: '2024-12-31'
+mailing_list: docs@openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/docs
+maintainers:
+  - gitcode_id: pelagics
+    name: 杨杰
+  - gitcode_id: WeliveWelove
+    name: 许强
+committers:
+  - gitcode_id: yelvsub
+    name: 黄雷生
+  - gitcode_id: changxingOpenUBMC
+    name: 常德兴
+  - gitcode_id: yangyinzuo3172
+    name: 杨引左
+repositories:
+  - openUBMC/docs

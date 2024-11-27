@@ -1,0 +1,26 @@
+name: sig-interface
+description:
+created_on: '2024-12-31'
+mailing_list: interface@openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/interface
+maintainers:
+  - gitcode_id: xiaoxinglxs
+    name: 刘兴森
+  - gitcode_id: zybwh
+    name: 张雨博
+  - gitcode_id: DataSculptor
+    name: 王健
+  - gitcode_id: pelagics
+    name: 杨杰
+committers:
+  - gitcode_id: pengqiang-gs
+    name: 彭强
+  - gitcode_id: WeliveWelove
+    name: 许强
+  - gitcode_id: Always21
+    name: 陆一洲
+repositories:
+  - openUBMC/mdb_interface
+  - openUBMC/rackmount
+  - openUBMC/webui
+  - openUBMC/profile_schema

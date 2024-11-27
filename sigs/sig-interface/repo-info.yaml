@@ -1,0 +1,12 @@
+- name: mdb_interface
+  description: ""
+  type: privacy
+- name: rackmount
+  description: ""
+  type: privacy
+- name: webui
+  description: ""
+  type: privacy
+- name: profile_schema
+  description: ""
+  type: privacy

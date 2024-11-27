@@ -1,0 +1,13 @@
+name: sig-cicd
+description:
+created_on: '2024-12-31'
+mailing_list: cicd@openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/cicd
+maintainers:
+  - gitcode_id:
+    name: 章建平
+committers:
+  - gitcode_id:
+    name: 李琴
+repositories:
+  - openUBMC/community

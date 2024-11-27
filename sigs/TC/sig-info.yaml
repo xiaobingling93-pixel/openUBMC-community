@@ -1,0 +1,22 @@
+name: TC
+description:
+created_on: '2024-12-31'
+mailing_list: tc@openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/tc
+maintainers:
+  - gitcode_id: zjp99
+    name: 章建平
+  - gitcode_id: llllliiiiilllll
+    name: 李琴
+  - gitcode_id: xiaoxinglxs
+    name: 刘兴森
+  - gitcode_id: TacoJay
+    name: 张超
+  - gitcode_id: pelagics
+    name: 杨杰
+  - gitcode_id: zybwh
+    name: 张雨博
+  - gitcode_id: nathanael
+    name: 陈莹亮
+repositories:
+  - openUBMC/community

@@ -1,0 +1,30 @@
+name: sig-hardware
+description:
+created_on: '2024-12-31'
+mailing_list: hardware@openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/hardware
+maintainers:
+  - gitcode_id: yelvsub
+    name: 黄雷生
+  - gitcode_id: changxingOpenUBMC
+    name: 常德兴
+  - gitcode_id: xiaoxinglxs
+    name: 刘兴森
+committers:
+  - gitcode_id: Always21
+    name: 陆一洲
+  - gitcode_id: zybwh
+    name: 张雨博
+repositories:
+  - openUBMC/rack_mgmt
+  - openUBMC/chasssis
+  - openUBMC/pcie_device
+  - openUBMC/bios
+  - openUBMC/network_adapter
+  - openUBMC/power_mgmt
+  - openUBMC/thermal_mgmt
+  - openUBMC/general_hardware
+  - openUBMC/storage
+  - openUBMC/manufacture
+  - openUBMC/lsw
+  - openUBMC/vpd
