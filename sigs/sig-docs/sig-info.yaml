@@ -1,13 +1,15 @@
 name: sig-docs
-description:
+description: "负责openUBMC社区文档的开发和维护"
 created_on: '2024-12-31'
-mailing_list: docs@openubmc.cn
+mailing_list: docs@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/docs
 maintainers:
   - gitcode_id: pelagics
     name: 杨杰
   - gitcode_id: WeliveWelove
     name: 许强
+  - gitcode_id: zjp99
+    name: 章建平
 committers:
   - gitcode_id: yelvsub
     name: 黄雷生

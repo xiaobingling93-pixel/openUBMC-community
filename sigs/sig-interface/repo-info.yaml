@@ -1,12 +1,12 @@
 - name: mdb_interface
-  description: ""
+  description: "Resource collaboration APIs"
   type: privacy
 - name: rackmount
-  description: ""
+  description: "Rackmount server configuration management app"
   type: privacy
 - name: webui
-  description: ""
+  description: "Web front-end app"
   type: privacy
 - name: profile_schema
-  description: ""
+  description: "Configuration schema files imported and exported by each component"
   type: privacy
