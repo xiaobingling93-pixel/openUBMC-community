@@ -12,4 +12,4 @@ committers:
   - gitcode_id: Larry_Li_006
     name: 李江
 repositories:
-  - openUBMC/community
+  - openUBMC/rootfs_user
