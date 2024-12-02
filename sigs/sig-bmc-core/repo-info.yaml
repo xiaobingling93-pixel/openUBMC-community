@@ -1,12 +1,12 @@
 - name: fructrl
-  description: ""
+  description: "Universal power-on and power-off management app"
   type: privacy
 - name: sensor
-  description: ""
+  description: "IPMI sensor and SEL event management app"
   type: privacy
 - name: frudata
-  description: ""
+  description: "E-label management app"
   type: privacy
 - name: hica
-  description: ""
+  description: "SystemD startup configuration"
   type: privacy

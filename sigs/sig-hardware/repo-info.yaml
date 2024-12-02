@@ -1,36 +1,36 @@
 - name: rack_mgmt
-  description: ""
+  description: "Rack management app"
   type: privacy
 - name: chasssis
-  description: ""
+  description: "Server chassis management app"
   type: privacy
 - name: pcie_device
-  description: ""
+  description: "PCIe device management app"
   type: privacy
 - name: bios
-  description: ""
+  description: "System BIOS management app"
   type: privacy
 - name: network_adapter
-  description: ""
+  description: "Universal NIC management app"
   type: privacy
 - name: power_mgmt
-  description: ""
+  description: "Universal power management app"
   type: privacy
 - name: thermal_mgmt
-  description: ""
+  description: "Universal heat sink management app"
   type: privacy
 - name: general_hardware
-  description: ""
+  description: "Universal board management app"
   type: privacy
 - name: storage
-  description: ""
+  description: "Universal storage device management app"
   type: privacy
 - name: manufacture
-  description: ""
+  description: "DFT capability management app"
   type: privacy
 - name: lsw
-  description: ""
+  description: "Switch module chip management app"
   type: privacy
 - name: vpd
-  description: ""
+  description: "Data configurations of major products,models,and devices"
   type: privacy

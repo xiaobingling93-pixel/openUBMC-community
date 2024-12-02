@@ -1,13 +1,15 @@
 name: sig-cicd
-description:
+description: "负责openUBMC社区软件工程相关的开发和维护"
 created_on: '2024-12-31'
-mailing_list: cicd@openubmc.cn
+mailing_list: cicd@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/cicd
 maintainers:
-  - gitcode_id:
-    name: 章建平
+  - gitcode_id: xuhaijun
+    name: 徐海军
+  - gitcode_id: DataSculptor
+    name: 王健
 committers:
-  - gitcode_id:
-    name: 李琴
+  - gitcode_id: Larry_Li_006
+    name: 李江
 repositories:
   - openUBMC/community

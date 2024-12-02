@@ -22,3 +22,6 @@
 - name: trust
   description: ""
   type: privacy
+- name: user
+  description: "System user management app"
+  type: privacy

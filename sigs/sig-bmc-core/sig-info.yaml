@@ -1,11 +1,13 @@
 name: sig-bmc-core
 description:
 created_on: '2024-12-31'
-mailing_list: bmc-core@openubmc.cn
+mailing_list: bmc-core@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/bmc-core
 maintainers:
   - gitcode_id: pengqiang-gs
     name: 彭强
+  - gitcode_id: huanghan
+    name: 黄晗
 committers:
   - gitcode_id: Always21
     name: 陆一洲
