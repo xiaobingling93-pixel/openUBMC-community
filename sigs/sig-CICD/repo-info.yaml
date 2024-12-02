@@ -1,3 +1,3 @@
-- name: community
-  description: ""
+- name: rootfs_user
+  description: "Public rootfs directories and files"
   type: privacy
