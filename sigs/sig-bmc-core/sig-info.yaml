@@ -1,7 +1,7 @@
 name: sig-bmc-core
-description:
+description: "负责openUBMC社区基础服务的开发和维护"
 created_on: '2024-12-31'
-mailing_list: bmc-core@public.openubmc.cn
+mailing_list: bmccore@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/bmc-core
 maintainers:
   - gitcode_id: pengqiang-gs
