@@ -10,11 +10,7 @@ maintainers:
     name: 李文杰
 repositories:
   - openUBMC/account
-  - openUBMC/session
-  - openUBMC/remote-account
-  - openUBMC/certificate
-  - openUBMC/file-porxy
-  - openUBMC/security-configure
-  - openUBMC/iam
-  - openUBMC/trust
   - openUBMC/user
+  - openUBMC/iam_lite
+  - openUBMC/certificate_mgmt
+  - openUBMC/capability_agent
