@@ -1,27 +1,15 @@
 - name: account
   description: ""
   type: privacy
-- name: session
-  description: ""
-  type: privacy
-- name: remote-account
-  description: ""
-  type: privacy
-- name: certificate
-  description: ""
-  type: privacy
-- name: file-porxy
-  description: ""
-  type: privacy
-- name: security-configure
-  description: ""
-  type: privacy
-- name: iam
-  description: ""
-  type: privacy
-- name: trust
-  description: ""
-  type: privacy
 - name: user
   description: "System user management app"
+  type: privacy
+- name: iam_lite
+  description: ""
+  type: privacy
+- name: certificate_mgmt
+  description: ""
+  type: privacy
+- name: capability_agent
+  description: ""
   type: privacy

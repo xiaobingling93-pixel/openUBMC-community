@@ -1,8 +1,8 @@
 name: Infrastructure
-description: The infrastructure team is responsible for system function development and maintenance of the openUBMC community.
+description: "负责openUBMC社区基础设施建设和维护"
 created_on: '2024-12-31'
-mailing_list: infra@public.openubmc.org
-meeting_url: https://etherpad.openubmc.cn/p/infra
+mailing_list: infrastructure@public.openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/infrastructure
 maintainers:
   - gitcode_id: georgecao
     name: 曹志
