@@ -1,5 +1,5 @@
 name: TC
-description: "负责openUBMC社区治理"
+description: "负责openUBMC社区项目的技术管理，提供技术指导、决策和监督"
 created_on: '2024-12-31'
 mailing_list: tc@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/tc
