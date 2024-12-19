@@ -13,10 +13,11 @@ committers:
     name: 朱超
   - gitcode_id: persimmonzzz
     name: 黄世俊
+  - gitcode_id: LiYanghang00
+    name: 李洋行
 repositories:
   - openUBMC/infrastructure
   - openUBMC/openubmc-ci
-  - openUBMC/docs
   - openUBMC/website
   - openUBMC/nginx
   - openUBMC/conan-auth-proxy
