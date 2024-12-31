@@ -19,5 +19,7 @@ committers:
     name: 常德兴
   - gitcode_id: yangyinzuo3172
     name: 杨引左
+  - gitcode_id: persimmonzzz
+    name: 黄世俊
 repositories:
   - openUBMC/docs
