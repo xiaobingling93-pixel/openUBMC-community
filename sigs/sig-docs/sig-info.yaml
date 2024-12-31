@@ -10,6 +10,8 @@ maintainers:
     name: 许强
   - gitcode_id: zjp99
     name: 章建平
+  - gitcode_id: zybwh
+    name: 张雨博
 committers:
   - gitcode_id: yelvsub
     name: 黄雷生
@@ -17,5 +19,7 @@ committers:
     name: 常德兴
   - gitcode_id: yangyinzuo3172
     name: 杨引左
+  - gitcode_id: persimmonzzz
+    name: 黄世俊
 repositories:
   - openUBMC/docs
