@@ -1,7 +1,7 @@
 - name: rack_mgmt
   description: "Rack management app"
   type: privacy
-- name: chasssis
+- name: chassis
   description: "Server chassis management app"
   type: privacy
 - name: pcie_device
