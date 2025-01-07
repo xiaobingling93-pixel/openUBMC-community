@@ -1,3 +1,9 @@
 - name: rootfs_user
   description: "Public rootfs directories and files"
   type: privacy
+- name: bingo
+  description: "bingo"
+  type: privacy
+- name: manifest
+  description: "manifest"
+  type: privacy

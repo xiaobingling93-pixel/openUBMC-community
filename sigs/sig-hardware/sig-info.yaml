@@ -17,7 +17,7 @@ committers:
     name: 张雨博
 repositories:
   - openUBMC/rack_mgmt
-  - openUBMC/chasssis
+  - openUBMC/chassis
   - openUBMC/pcie_device
   - openUBMC/bios
   - openUBMC/network_adapter

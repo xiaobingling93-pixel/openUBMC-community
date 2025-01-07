@@ -13,3 +13,5 @@ committers:
     name: 李江
 repositories:
   - openUBMC/rootfs_user
+  - openUBMC/bingo
+  - openUBMC/manifest
