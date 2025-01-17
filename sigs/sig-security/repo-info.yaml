@@ -1,15 +1,15 @@
 - name: account
-  description: ""
+  description: "Account manages user permissions, password verification and security policies to control user permissions on the system and managed objects"
   type: privacy
 - name: user
   description: "System user management app"
   type: privacy
 - name: iam_lite
-  description: ""
+  description: "Authentication and session service app, the open source version of iam"
   type: privacy
 - name: certificate_mgmt
-  description: ""
+  description: "Certificate management app, the open source version of certificate"
   type: privacy
 - name: capability_agent
-  description: ""
+  description: "Privileged capability operation proxy app, the open source version of capability_proxy"
   type: privacy
