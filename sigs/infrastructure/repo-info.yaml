@@ -13,3 +13,9 @@
 - name: conan-auth-proxy
   description: "conan-auth-proxy"
   type: privacy
+- name: software-center
+  description: "Software Center Backend Services for openUBMC"
+  type: privacy
+- name: software-center-importer
+  description: "Software Center Importer Backend Services for openUBMC"
+  type: privacy
