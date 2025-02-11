@@ -15,3 +15,4 @@ repositories:
   - openUBMC/rootfs_user
   - openUBMC/bingo
   - openUBMC/manifest
+  - openUBMC/conan_index

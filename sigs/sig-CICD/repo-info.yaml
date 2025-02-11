@@ -7,3 +7,6 @@
 - name: manifest
   description: "manifest"
   type: privacy
+- name: conan_index
+  description: "Source index of conan recipes of opensouce software"
+  type: privacy
