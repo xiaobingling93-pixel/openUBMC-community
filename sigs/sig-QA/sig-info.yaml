@@ -6,3 +6,8 @@ meeting_url: https://etherpad.openubmc.cn/p/qa
 maintainers:
   - gitcode_id: openubmc-lcyj
     name: 刘宇杰
+committers:
+  - gitcode_id: liuxiru
+    name: 刘习儒
+repositories:
+  - openUBMC/qemu
