@@ -21,3 +21,5 @@ repositories:
   - openUBMC/website
   - openUBMC/nginx
   - openUBMC/conan-auth-proxy
+  - openUBMC/software-center
+  - openUBMC/software-center-importer
