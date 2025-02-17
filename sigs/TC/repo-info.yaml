@@ -1,3 +1,6 @@
 - name: community
-  description: ""
+  description: "openUBMC community repo"
+  type: privacy
+- name: software-center-config
+  description: "Release config for openUBMC software center"
   type: privacy
