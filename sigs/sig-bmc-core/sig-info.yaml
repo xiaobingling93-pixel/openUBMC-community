@@ -9,8 +9,10 @@ maintainers:
   - gitcode_id: huanghan
     name: 黄晗
 committers:
-  - gitcode_id: Always21
-    name: 陆一洲
+  - gitcode_id: duzhou13
+    name: 王浩舟
+  - gitcode_id: L_Ling
+    name: 李晓宁
 repositories:
   - openUBMC/fructrl
   - openUBMC/sensor
