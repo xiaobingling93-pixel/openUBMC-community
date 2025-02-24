@@ -28,3 +28,4 @@ repositories:
   - openUBMC/rackmount
   - openUBMC/webui
   - openUBMC/profile_schema
+  - openUBMC/web_online_help
