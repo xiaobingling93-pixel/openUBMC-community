@@ -22,3 +22,4 @@ maintainers:
     name: 陈莹亮
 repositories:
   - openUBMC/community
+  - openUBMC/software-center-config

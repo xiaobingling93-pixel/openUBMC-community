@@ -10,3 +10,6 @@
 - name: profile_schema
   description: "Configuration schema files imported and exported by each component"
   type: privacy
+- name: web_online_help
+  description: "Support documents for openUMBC web front-end app to display"
+  type: privacy
