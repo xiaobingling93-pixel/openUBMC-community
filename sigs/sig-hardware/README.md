@@ -6,6 +6,16 @@
 
 ### Maintainer列表
 
+|gitcode id|real fullname|
+|--|--|
+|xiaoxinglxs|刘兴森|
+|changxingOpenUBMC|常德兴|
+|yelvsub|黄雷生|
+
 ### Committer列表
+
+|gitcode id|real fullname|
+|--|--|
+|dli_bmc|李东辉|
 
 # 联系方式
