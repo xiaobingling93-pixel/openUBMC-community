@@ -4,10 +4,12 @@ created_on: '2024-12-31'
 mailing_list: docs@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/docs
 maintainers:
-  - gitcode_id: zjp99
-    name: 章建平
   - gitcode_id: zybwh
     name: 张雨博
+  - gitcode_id: zjp99
+    name: 章建平
+  - gitcode_id: xuhaijun
+    name: 徐海军
 committers:
   - gitcode_id: WeliveWelove
     name: 许强
