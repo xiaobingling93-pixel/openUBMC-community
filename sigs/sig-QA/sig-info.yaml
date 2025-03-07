@@ -11,5 +11,7 @@ maintainers:
 committers:
   - gitcode_id: liuxiru
     name: 刘习儒
+  - gitcode_id: young_yang007
+    name: 杨威   
 repositories:
   - openUBMC/qemu

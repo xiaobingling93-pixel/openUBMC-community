@@ -1,3 +1,6 @@
 - name: qemu
   description: "qemu repo is the repository for managing a generic machine & userspace emulator and virtualizer."
   type: privacy
+- name: QA
+  description: "QA repo is the repository for managing testing plan,testing tool design and maintenance."
+  type: privacy
