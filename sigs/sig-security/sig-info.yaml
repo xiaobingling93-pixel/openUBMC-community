@@ -8,6 +8,9 @@ maintainers:
     name: 张超
   - gitcode_id: lwj11223344
     name: 李文杰
+committers:
+  - gitcode_id: Free_Tomato
+    name: 彭祥麟
 repositories:
   - openUBMC/account
   - openUBMC/user
