@@ -24,6 +24,11 @@ sig-security每双周5开展例会。
 zhangchao.frank@foxmail.com [@TacoJay(张超)]
 348808705@qq.com [@lwj11223344(李文杰)]
 
+
+### Committer列表
+779079094@qq.com [@Free_Tomato(彭祥麟)]
+
+
 # 联系方式
 请邮件至 security@public.openubmc.cn
 
