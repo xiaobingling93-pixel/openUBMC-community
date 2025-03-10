@@ -13,6 +13,8 @@ maintainers:
 committers:
   - gitcode_id: dli_bmc
     name: 李东辉
+  - gitcode_id: wwhh_wwhh
+    name: 汪航
 repositories:
   - openUBMC/rack_mgmt
   - openUBMC/chassis
