@@ -9,8 +9,6 @@ maintainers:
   - gitcode_id: openubmc-lcyj
     name: 刘宇杰
 committers:
-  - gitcode_id: liuxiru
-    name: 刘习儒
   - gitcode_id: young_yang007
     name: 杨威   
 repositories:
