@@ -7,9 +7,6 @@
 - name: iam_lite
   description: "Authentication and session service app, the open source version of iam"
   type: privacy
-- name: certificate_mgmt
-  description: "Certificate management app, the open source version of certificate"
-  type: privacy
 - name: capability_agent
   description: "Privileged capability operation proxy app, the open source version of capability_proxy"
   type: privacy

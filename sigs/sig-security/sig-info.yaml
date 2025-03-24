@@ -15,5 +15,4 @@ repositories:
   - openUBMC/account
   - openUBMC/user
   - openUBMC/iam_lite
-  - openUBMC/certificate_mgmt
   - openUBMC/capability_agent
