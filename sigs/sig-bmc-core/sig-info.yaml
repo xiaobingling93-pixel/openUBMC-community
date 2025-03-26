@@ -18,3 +18,7 @@ repositories:
   - openUBMC/sensor
   - openUBMC/frudata
   - openUBMC/hica
+meeting_agenda:
+  - "讨论和评审openUBMC通用服务特性方案。"
+  - "讨论和评审openUBMC通用服务架构方案。"
+  - "讨论和规划openUBMC通用服务的长期技术规划。"

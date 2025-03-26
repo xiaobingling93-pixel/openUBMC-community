@@ -4,21 +4,19 @@ created_on: '2024-12-31'
 mailing_list: interface@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/interface
 maintainers:
-  - gitcode_id: xiaoxinglxs
-    name: 刘兴森
   - gitcode_id: huanghan
     name: 黄晗
-  - gitcode_id: zybwh
-    name: 张雨博
-  - gitcode_id: DataSculptor
-    name: 王健
-  - gitcode_id: pelagics
-    name: 杨杰
-committers:
+  - gitcode_id: xiaoxinglxs
+    name: 刘兴森
   - gitcode_id: pengqiang-gs
     name: 彭强
   - gitcode_id: WeliveWelove
     name: 许强
+  - gitcode_id: zybwh
+    name: 张雨博
+  - gitcode_id: DataSculptor
+    name: 王健
+committers:
   - gitcode_id: Always21
     name: 陆一洲
   - gitcode_id: yangyinzuo3172
@@ -29,3 +27,7 @@ repositories:
   - openUBMC/webui
   - openUBMC/profile_schema
   - openUBMC/web_online_help
+meeting_agenda:
+  - "评审和管控资源协作接口变更方案。"
+  - "评审和管控openUBMC北向接口变更方案。"
+  - "评审和管控组件导入导出配置Schema变更方案。"

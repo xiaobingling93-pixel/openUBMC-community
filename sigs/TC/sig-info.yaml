@@ -6,8 +6,6 @@ meeting_url: https://etherpad.openubmc.cn/p/tc
 maintainers:
   - gitcode_id: zjp99
     name: 章建平
-  - gitcode_id: llllliiiiilllll
-    name: 李琴
   - gitcode_id: huanghan
     name: 黄晗
   - gitcode_id: xiaoxinglxs
@@ -23,3 +21,7 @@ maintainers:
 repositories:
   - openUBMC/community
   - openUBMC/software-center-config
+meeting_agenda:
+  - "讨论和规划社区技术发展方向与愿景。"
+  - "讨论和决策社区重大技术事项。"
+  - "决策SIG组的建立和撤销，审视和辅导SIG组日常工作，协调SIG组间技术合作。"

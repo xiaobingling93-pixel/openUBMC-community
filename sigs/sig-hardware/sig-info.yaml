@@ -28,3 +28,7 @@ repositories:
   - openUBMC/manufacture
   - openUBMC/lsw
   - openUBMC/vpd
+meeting_agenda:
+  - "讨论和评审部件管理特性方案。"
+  - "讨论和评审部件管理架构方案。"
+  - "讨论和规划部件管理的长期技术规划。"
