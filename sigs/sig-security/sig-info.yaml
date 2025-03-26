@@ -16,3 +16,7 @@ repositories:
   - openUBMC/user
   - openUBMC/iam_lite
   - openUBMC/capability_agent
+meeting_aganda:
+  - "评审安全组件技术方案。"
+  - "评审社区安全架构方案。"
+  - "评审社区安全事件策略。"
