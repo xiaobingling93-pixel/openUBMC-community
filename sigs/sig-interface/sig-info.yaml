@@ -28,6 +28,6 @@ repositories:
   - openUBMC/profile_schema
   - openUBMC/web_online_help
 meeting_agenda:
-  - "评审和管控资源协作接口变更方案。"
-  - "评审和管控openUBMC北向接口变更方案。"
-  - "评审和管控组件导入导出配置Schema变更方案。"
+  - "1、评审和管控资源协作接口变更方案。"
+  - "2、评审和管控openUBMC北向接口变更方案。"
+  - "3、评审和管控组件导入导出配置Schema变更方案。"
