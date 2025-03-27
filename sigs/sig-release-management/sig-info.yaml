@@ -13,7 +13,7 @@ committers:
     name: 陆一洲
 repositories:
   - openUBMC/release_management
-meeting_aganda:
-  - "规划社区版本节点及需求范围。"
-  - "跟踪社区版本过程进展，管控版本风险。"
-  - "决策社区版本发布。"
+meeting_agenda:
+  - "1、规划社区版本节点及需求范围。"
+  - "2、跟踪社区版本过程进展，管控版本风险。"
+  - "3、决策社区版本发布。"

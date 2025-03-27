@@ -22,6 +22,6 @@ repositories:
   - openUBMC/community
   - openUBMC/software-center-config
 meeting_agenda:
-  - "讨论和规划社区技术发展方向与愿景。"
-  - "讨论和决策社区重大技术事项。"
-  - "决策SIG组的建立和撤销，审视和辅导SIG组日常工作，协调SIG组间技术合作。"
+  - "1、讨论和规划社区技术发展方向与愿景。"
+  - "2、讨论和决策社区重大技术事项。"
+  - "3、决策SIG组的建立和撤销，审视和辅导SIG组日常工作，协调SIG组间技术合作。"
