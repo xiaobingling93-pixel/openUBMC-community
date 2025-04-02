@@ -1,5 +1,5 @@
 # openUBMC社区行为准则
-如需举报侮辱、骚扰或其他不可接受的行为，您可以发送邮件至 [xxx待补充]，联系openUBMC技术委员会处理。
+如需举报侮辱、骚扰或其他不可接受的行为，您可以发送邮件至[complain@public.openubmc.cn](mailto:complain@public.openubmc.cn)，联系openUBMC技术委员会处理。
 
 ### 贡献者承诺
 
