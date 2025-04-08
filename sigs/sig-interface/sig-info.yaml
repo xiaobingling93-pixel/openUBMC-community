@@ -27,6 +27,7 @@ repositories:
   - openUBMC/webui
   - openUBMC/profile_schema
   - openUBMC/web_online_help
+  - openUBMC/libirc
 meeting_agenda:
   - "1、评审和管控资源协作接口变更方案。"
   - "2、评审和管控openUBMC北向接口变更方案。"
