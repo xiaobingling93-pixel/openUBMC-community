@@ -17,6 +17,8 @@ repositories:
   - openUBMC/fructrl
   - openUBMC/sensor
   - openUBMC/frudata
+  - openUBMC/active_standby_mgmt
+  - openUBMC/bmc_datasync
   - openUBMC/hica
 meeting_agenda:
   - "1、讨论和评审openUBMC通用服务特性方案。"

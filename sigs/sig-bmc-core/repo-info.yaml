@@ -7,6 +7,12 @@
 - name: frudata
   description: "E-label management app"
   type: privacy
+- name: active_standby_mgmt
+  description: "Active or standby relationship management of multiple BMC entities"
+  type: privacy
+- name: bmc_datasync
+  description: "Data synchonization management of multiple BMC entities"
+  type: privacy
 - name: hica
   description: "SystemD startup configuration"
   type: privacy
