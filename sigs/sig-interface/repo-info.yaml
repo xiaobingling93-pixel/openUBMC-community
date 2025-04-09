@@ -13,3 +13,6 @@
 - name: web_online_help
   description: "Support documents for openUMBC web front-end app to display"
   type: privacy
+- name: libirc
+  description: "Integrated-remote-console client libraries"
+  type: privacy
