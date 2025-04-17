@@ -10,3 +10,6 @@
 - name: conan_index
   description: "Source index of conan recipes of opensouce software"
   type: privacy
+- name: qemu
+  description: "qemu repo is the repository for managing a generic machine & userspace emulator and virtualizer."
+  type: privacy

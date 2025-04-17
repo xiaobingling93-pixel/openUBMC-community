@@ -12,7 +12,6 @@ committers:
   - gitcode_id: young_yang007
     name: 杨威   
 repositories:
-  - openUBMC/qemu
   - openUBMC/QA
 meeting_agenda:
   - "1、讨论和规划社区测试活动和过程。"
