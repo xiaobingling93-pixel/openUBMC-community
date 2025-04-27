@@ -16,3 +16,6 @@
 - name: libirc
   description: "C/C++ library for Integrated Remote Console client"
   type: privacy
+- name: observability
+  description: "Provide BMC observability service"
+  type: privacy
