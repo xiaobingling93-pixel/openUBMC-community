@@ -88,14 +88,14 @@ repositories:
 ```
 - name: infrastructure
   description: "Infrastructure repo is the warehouse operated and maintained by Infrastructure sig, including but not limited to CI access control, release platform, official website, etc."
-  type: privacy
+  type: public
 - name: openubmc-ci
   description: "The openubmc-ci repo is the repository for managing CI access control"
-  type: privacy
+  type: public
 - name: docs
   description: ""
-  type: privacy
+  type: public
 - name: website
   description: ""
-  type: privacy
+  type: public
 ```
