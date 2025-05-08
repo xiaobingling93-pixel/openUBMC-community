@@ -6,4 +6,4 @@
   type: public
 - name: capability_agent
   description: "Privileged capability operation proxy app, the open source version of capability_proxy"
-  type: public
+  type: privacy

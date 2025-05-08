@@ -10,6 +10,8 @@ maintainers:
     name: 常德兴
   - gitcode_id: xiaoxinglxs
     name: 刘兴森
+  - gitcode_id: nathanael
+    name: 于飞
 committers:
   - gitcode_id: dli_bmc
     name: 李东辉

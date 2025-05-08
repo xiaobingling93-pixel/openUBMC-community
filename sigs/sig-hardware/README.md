@@ -9,6 +9,7 @@
 |gitcode id|real fullname|
 |--|--|
 |xiaoxinglxs|刘兴森|
+|nathanael|于飞|
 |changxingOpenUBMC|常德兴|
 |yelvsub|黄雷生|
 
