@@ -3,7 +3,7 @@
   type: public
 - name: iam_lite
   description: "Authentication and session service app, the open source version of iam"
-  type: public
+  type: privacy
 - name: capability_agent
   description: "Privileged capability operation proxy app, the open source version of capability_proxy"
   type: privacy
