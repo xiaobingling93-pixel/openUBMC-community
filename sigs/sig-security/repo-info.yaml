@@ -1,9 +1,9 @@
 - name: account
   description: "Account manages user permissions, password verification and security policies to control user permissions on the system and managed objects"
-  type: privacy
+  type: public
 - name: iam_lite
   description: "Authentication and session service app, the open source version of iam"
-  type: privacy
+  type: public
 - name: capability_agent
   description: "Privileged capability operation proxy app, the open source version of capability_proxy"
-  type: privacy
+  type: public

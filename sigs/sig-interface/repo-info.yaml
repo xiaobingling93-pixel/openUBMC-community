@@ -1,21 +1,21 @@
 - name: mdb_interface
   description: "Resource collaboration APIs definition"
-  type: privacy
+  type: public
 - name: rackmount
   description: "Rackmount server redfish/CLI/SNMP/Web interface mapping configuration"
-  type: privacy
+  type: public
 - name: webui
   description: "Web-based user interface for openUBMC"
-  type: privacy
+  type: public
 - name: profile_schema
   description: "Schema of openUBMC configurations"
-  type: privacy
+  type: public
 - name: web_online_help
   description: "Support documents for openUBMC Web-based user interface"
-  type: privacy
+  type: public
 - name: libirc
   description: "C/C++ library for Integrated Remote Console client"
-  type: privacy
+  type: public
 - name: observability
   description: "Provide BMC observability service"
-  type: privacy
+  type: public
