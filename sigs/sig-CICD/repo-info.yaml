@@ -12,4 +12,4 @@
   type: public
 - name: qemu
   description: "qemu repo is the repository for managing a generic machine & userspace emulator and virtualizer."
-  type: privacy
+  type: public
