@@ -17,10 +17,8 @@ maintainers:
   - gitcode_id: aaronlee
     name: 李四光
 committers:
-  - gitcode_id: Always21
-    name: 陆一洲
-  - gitcode_id: yangyinzuo3172
-    name: 杨引左
+  - gitcode_id: cmt_xiangwei
+    name: 项伟
   - gitcode_id: sameeen
     name: 刘睿
 repositories:
