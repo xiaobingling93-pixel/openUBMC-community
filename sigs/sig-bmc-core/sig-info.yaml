@@ -2,7 +2,7 @@ name: sig-bmc-core
 description: "负责openUBMC社区上关于IPMI规范的传感器，上下电，FRU数据等业务的开发和维护，以及openUBMC的服务部署管理（hica）"
 created_on: '2024-12-31'
 mailing_list: bmccore@public.openubmc.cn
-meeting_url: https://etherpad.openubmc.cn/p/bmc-core
+meeting_url: https://etherpad.openubmc.cn/p/sig-bmc-core
 maintainers:
   - gitcode_id: pengqiang-gs
     name: 彭强

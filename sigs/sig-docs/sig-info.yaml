@@ -2,7 +2,7 @@ name: sig-docs
 description: "负责openUBMC社区文档的运作"
 created_on: '2024-12-31'
 mailing_list: docs@public.openubmc.cn
-meeting_url: https://etherpad.openubmc.cn/p/docs
+meeting_url: https://etherpad.openubmc.cn/p/sig-docs
 maintainers:
   - gitcode_id: zybwh
     name: 张雨博

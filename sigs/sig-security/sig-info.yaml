@@ -2,7 +2,7 @@ name: sig-security
 description: "负责openUBMC安全的开发和维护"
 created_on: '2024-12-31'
 mailing_list: security@public.openubmc.cn
-meeting_url: https://etherpad.openubmc.cn/p/security
+meeting_url: https://etherpad.openubmc.cn/p/sig-security
 maintainers:
   - gitcode_id: TacoJay
     name: 张超
