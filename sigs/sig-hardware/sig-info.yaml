@@ -2,7 +2,7 @@ name: sig-hardware
 description: "负责openUBMC社区硬件的开发和维护"
 created_on: '2024-12-31'
 mailing_list: hardware@public.openubmc.cn
-meeting_url: https://etherpad.openubmc.cn/p/hardware
+meeting_url: https://etherpad.openubmc.cn/p/sig-hardware
 maintainers:
   - gitcode_id: yelvsub
     name: 黄雷生

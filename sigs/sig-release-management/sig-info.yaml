@@ -2,7 +2,7 @@ name: sig-release-management
 description: "负责openUBMC版本发布和运作"
 created_on: "2025-03-15"
 mailing_list: release-management@public.openubmc.cn
-meeting_url: https://etherpad.openubmc.cn/p/release-management
+meeting_url: https://etherpad.openubmc.cn/p/sig-release-management
 maintainers:
   - gitcode_id: fangzhengbo
     name: 方正波
