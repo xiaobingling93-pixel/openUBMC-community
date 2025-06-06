@@ -2,7 +2,7 @@ name: sig-QA
 description: "负责社区测试能力建设，包括测试能力、测试方案、测试工具的设计和看护。"
 created_on: '2025-02-07'
 mailing_list: qa@public.openubmc.cn
-meeting_url: https://etherpad.openubmc.cn/p/sig-qa
+meeting_url: https://etherpad.openubmc.cn/p/sig-QA
 maintainers:
   - gitcode_id: nathanael
     name: 于飞
