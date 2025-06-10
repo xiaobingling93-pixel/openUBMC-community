@@ -4,6 +4,3 @@
 - name: iam_lite
   description: "Authentication and session service app"
   type: privacy
-- name: capability_agent
-  description: "Privileged capability operation proxy app"
-  type: privacy
