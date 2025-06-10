@@ -34,3 +34,12 @@
 - name: vpd
   description: "Data configurations of major products,models,and devices"
   type: public
+- name: devmon
+  description: "Device monitoring app"
+  type: private
+- name: libmcpp
+  description: "C++ library"
+  type: private
+- name: component_drivers
+  description: "Component drivers"
+  type: private
