@@ -18,7 +18,6 @@ sig-CICD负责社区软件工程能力建设，包括构建工具、仿真工具
 |Polaris404|李睿宸|
 |xyzheng1122|郑新阳|
 |Larry_Li_006|李江|
-|Always21|陆一洲|
 
 # 联系方式
 请邮件至 cicd@public.openubmc.cn
