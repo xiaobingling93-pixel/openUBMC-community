@@ -21,11 +21,12 @@ repositories:
   - openUBMC/infrastructure
   - openUBMC/openubmc-ci
   - openUBMC/website
+  - openUBMC/website-backend
   - openUBMC/nginx
   - openUBMC/conan-auth-proxy
   - openUBMC/software-center
   - openUBMC/software-center-importer
 meeting_agenda:
-  - "1、负责CI门禁底座平台的建设和维护。"
-  - "2、负责发布流水线能力的建设和维护。"
-  - "3、负责官网建设和维护。"
+  - "1、讨论和接纳社区对基础设施的诉求。"
+  - "2、讨论和评审基础设施服务的技术方案。"
+  - "3、讨论和评审基础设施的长期规划。"

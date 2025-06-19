@@ -3,4 +3,4 @@
   type: public
 - name: iam_lite
   description: "Authentication and session service app"
-  type: privacy
+  type: private
