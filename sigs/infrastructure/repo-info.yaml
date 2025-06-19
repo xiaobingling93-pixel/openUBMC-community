@@ -1,21 +1,24 @@
 - name: infrastructure
   description: "Infrastructure repo is the warehouse operated and maintained by Infrastructure sig, including but not limited to CI access control, release platform, official website, etc."
-  type: privacy
+  type: private
 - name: openubmc-ci
   description: "The openubmc-ci repo is the repository for managing CI access control"
-  type: privacy
+  type: private
 - name: website
   description: "openUBMC official website"
-  type: privacy
+  type: private
+- name: website-backend
+  description: "The backend of website"
+  type: private
 - name: nginx
   description: "The nginx repo is the repository for managing nginx access control"
-  type: privacy
+  type: private
 - name: conan-auth-proxy
   description: "conan-auth-proxy"
-  type: privacy
+  type: private
 - name: software-center
   description: "Software Center Backend Services for openUBMC"
-  type: privacy
+  type: private
 - name: software-center-importer
   description: "Software Center Importer Backend Services for openUBMC"
-  type: privacy
+  type: private

@@ -36,10 +36,10 @@
   type: public
 - name: devmon
   description: "Device monitoring app"
-  type: privacy
+  type: private
 - name: libmcpp
   description: "C++ framework library"
-  type: privacy
+  type: private
 - name: component_drivers
   description: "Repo for openUBMC component drivers"
-  type: privacy
+  type: private
