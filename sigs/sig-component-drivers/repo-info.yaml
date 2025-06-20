@@ -1,0 +1,9 @@
+- name: devmon
+  description: "Device monitoring app"
+  type: private
+- name: libmcpp
+  description: "C++ framework library"
+  type: private
+- name: component_drivers
+  description: "Repo for openUBMC component drivers"
+  type: private
