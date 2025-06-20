@@ -34,9 +34,6 @@ repositories:
   - openUBMC/manufacture
   - openUBMC/lsw
   - openUBMC/vpd
-  - openUBMC/devmon
-  - openUBMC/libmcpp
-  - openUBMC/component_drivers
 meeting_agenda:
   - "1、讨论和评审部件管理特性方案。"
   - "2、讨论和评审部件管理架构方案。"

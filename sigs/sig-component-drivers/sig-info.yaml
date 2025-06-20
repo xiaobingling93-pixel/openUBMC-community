@@ -1,0 +1,39 @@
+name: sig-component_drivers
+description: "部件驱动-SIG致力于深耕部件驱动标准化，深化与部件厂商合作认证与部件规范联创，建设部件生态社区。通过建立统一的驱动接口规范和开发标准，构建硬件抽象层和驱动适配框架，实现多厂商硬件的统一管理和标准化接入。"
+created_on: '2025-06-20'
+mailing_list: componentdrivers@public.openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/sig-component-drivers
+maintainers:
+  - gitcode_id: xiaoxinglxs
+    name: 刘兴森
+  - gitcode_id: dongyushan
+    name: 董钰山
+  - gitcode_id: weixin_37569011
+    name: 王东伟
+  - gitcode_id: net-swift_wangchen
+    name: 王晨
+  - gitcode_id: sam_h1973
+    name: 胡顺奎
+  - gitcode_id: u012924942
+    name: 陈奎真
+  - gitcode_id: suguirong
+    name: 苏桂荣
+committers:
+  - gitcode_id: changxingOpenUBMC
+    name: 常德兴
+  - gitcode_id: yelvsub
+    name: 黄雷生
+  - gitcode_id: Damon_cc
+    name: 郝恒攀
+  - gitcode_id: owenqiu
+    name: 邱英东
+  - gitcode_id: WeliveWelove
+    name: 许强
+repositories:
+  - openUBMC/devmon
+  - openUBMC/libmcpp
+  - openUBMC/component_drivers
+meeting_agenda:
+  - "1、讨论和评审部件驱动方案设计。"
+  - "2、讨论和评审部件驱动架构方案。"
+  - "3、讨论和规划部件驱动的长期技术规划。"
