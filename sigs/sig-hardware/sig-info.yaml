@@ -21,6 +21,8 @@ committers:
     name: 汪航
   - gitcode_id: mao_0v0
     name: 毛宇浩
+  - gitcode_id: huangjiapei
+    name: 黄嘉培
 repositories:
   - openUBMC/rack_mgmt
   - openUBMC/chassis
