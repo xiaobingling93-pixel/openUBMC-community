@@ -8,11 +8,12 @@ maintainers:
     name: 于飞
   - gitcode_id: openubmc-lcyj
     name: 刘宇杰
-committers:
-  - gitcode_id: young_yang007
-    name: 杨威   
 repositories:
-  - openUBMC/QA
+  - repo:
+      - openUBMC/QA
+    committers:
+      - gitcode_id: young_yang007
+        name: 杨威   
 meeting_agenda:
   - "1、讨论和规划社区测试活动和过程。"
   - "2、讨论和评审社区需求测试方案。"

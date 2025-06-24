@@ -16,19 +16,23 @@ maintainers:
     name: 王健
   - gitcode_id: aaronlee
     name: 李四光
-committers:
-  - gitcode_id: cmt_xiangwei
-    name: 项伟
-  - gitcode_id: sameeen
-    name: 刘睿
 repositories:
-  - openUBMC/mdb_interface
-  - openUBMC/rackmount
-  - openUBMC/webui
-  - openUBMC/profile_schema
-  - openUBMC/web_online_help
-  - openUBMC/libirc
-  - openUBMC/observability
+  - repo:
+      - openUBMC/mdb_interface
+      - openUBMC/rackmount
+      - openUBMC/profile_schema
+      - openUBMC/libirc
+      - openUBMC/observability
+    committers:
+      - gitcode_id: cmt_xiangwei
+        name: 项伟
+  - repo:
+      - openUBMC/webui
+      - openUBMC/web_online_help
+    committers:
+      - gitcode_id: sameeen
+        name: 刘睿
+
 meeting_agenda:
   - "1、评审和管控资源协作接口变更方案。"
   - "2、评审和管控openUBMC北向接口变更方案。"

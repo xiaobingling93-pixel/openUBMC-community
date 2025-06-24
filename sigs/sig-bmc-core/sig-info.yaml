@@ -8,18 +8,19 @@ maintainers:
     name: 彭强
   - gitcode_id: huanghan
     name: 黄晗
-committers:
-  - gitcode_id: duzhou13
-    name: 王浩舟
-  - gitcode_id: L_Ling
-    name: 李晓宁
 repositories:
-  - openUBMC/fructrl
-  - openUBMC/sensor
-  - openUBMC/frudata
-  - openUBMC/active_standby_mgmt
-  - openUBMC/bmc_datasync
-  - openUBMC/hica
+  - repo:
+      - openUBMC/fructrl
+      - openUBMC/sensor
+      - openUBMC/frudata
+      - openUBMC/active_standby_mgmt
+      - openUBMC/bmc_datasync
+      - openUBMC/hica
+    committers:
+      - gitcode_id: duzhou13
+        name: 王浩舟
+      - gitcode_id: L_Ling
+        name: 李晓宁
 meeting_agenda:
   - "1、讨论和评审openUBMC通用服务特性方案。"
   - "2、讨论和评审openUBMC通用服务架构方案。"

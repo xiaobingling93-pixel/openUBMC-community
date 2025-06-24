@@ -8,12 +8,13 @@ maintainers:
     name: 张超
   - gitcode_id: lwj11223344
     name: 李文杰
-committers:
-  - gitcode_id: Free_Tomato
-    name: 彭祥麟
 repositories:
-  - openUBMC/account
-  - openUBMC/iam_lite
+  - repo:
+      - openUBMC/account
+      - openUBMC/iam_lite
+    committers:
+      - gitcode_id: Free_Tomato
+        name: 彭祥麟
 meeting_agenda:
   - "1、评审安全组件技术方案。"
   - "2、评审社区安全架构方案。"
