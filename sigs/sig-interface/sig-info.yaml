@@ -16,10 +16,17 @@ maintainers:
     name: 王健
   - gitcode_id: aaronlee
     name: 李四光
+
 repositories:
   - repo:
       - openUBMC/mdb_interface
       - openUBMC/rackmount
+    committers:
+      - gitcode_id: cmt_xiangwei
+        name: 项伟
+      - gitcode_id: yelvsub
+        name: 黄雷生
+  - repo:      
       - openUBMC/profile_schema
       - openUBMC/libirc
       - openUBMC/observability

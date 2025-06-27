@@ -2,7 +2,7 @@
   description: "Resource collaboration APIs definition"
   type: public
 - name: rackmount
-  description: "Rackmount server redfish/CLI/SNMP/Web interface mapping configuration"
+  description: "Redfish/CLI/SNMP/Webrest interface mapping configurations for rackmount server"
   type: public
 - name: webui
   description: "Web-based user interface for openUBMC"
