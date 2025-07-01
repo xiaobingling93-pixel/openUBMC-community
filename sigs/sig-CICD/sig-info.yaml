@@ -10,19 +10,20 @@ maintainers:
     name: 张雨博
   - gitcode_id: DataSculptor
     name: 王健
-committers:
-  - gitcode_id: Larry_Li_006
-    name: 李江
-  - gitcode_id: xyzheng1122
-    name: 郑新阳
-  - gitcode_id: Polaris404
-    name: 李睿宸
 repositories:
-  - openUBMC/rootfs_user
-  - openUBMC/bingo
-  - openUBMC/manifest
-  - openUBMC/conan_index
-  - openUBMC/qemu
+  - repo:
+      - openUBMC/rootfs_user
+      - openUBMC/bingo
+      - openUBMC/manifest
+      - openUBMC/conan_index
+      - openUBMC/qemu
+  - committers:
+      - gitcode_id: Larry_Li_006
+        name: 李江
+      - gitcode_id: xyzheng1122
+        name: 郑新阳
+      - gitcode_id: Polaris404
+        name: 李睿宸
 meeting_agenda:
   - "1、讨论和评审CICD、工程工具的技术方案。"
   - "2、培训和赋能软件工程能力。"

@@ -8,24 +8,25 @@ maintainers:
     name: 曹志
   - gitcode_id: zengchen1024
     name: 陈曾
-committers:
-  - gitcode_id: weixin_43493709
-    name: 朱超
-  - gitcode_id: persimmonzzz
-    name: 黄世俊
-  - gitcode_id: LiYanghang00
-    name: 李洋行
-  - gitcode_id: ddll1234
-    name: 野岱琳
 repositories:
-  - openUBMC/infrastructure
-  - openUBMC/openubmc-ci
-  - openUBMC/website
-  - openUBMC/website-backend
-  - openUBMC/nginx
-  - openUBMC/conan-auth-proxy
-  - openUBMC/software-center
-  - openUBMC/software-center-importer
+  - repo:
+      - openUBMC/infrastructure
+      - openUBMC/openubmc-ci
+      - openUBMC/website
+      - openUBMC/website-backend
+      - openUBMC/nginx
+      - openUBMC/conan-auth-proxy
+      - openUBMC/software-center
+      - openUBMC/software-center-importer
+    committers:
+      - gitcode_id: weixin_43493709
+        name: 朱超
+      - gitcode_id: persimmonzzz
+        name: 黄世俊
+      - gitcode_id: LiYanghang00
+        name: 李洋行
+      - gitcode_id: ddll1234
+        name: 野岱琳
 meeting_agenda:
   - "1、讨论和接纳社区对基础设施的诉求。"
   - "2、讨论和评审基础设施服务的技术方案。"

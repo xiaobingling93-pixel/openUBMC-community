@@ -18,21 +18,24 @@ maintainers:
     name: 陈奎真
   - gitcode_id: suguirong
     name: 苏桂荣
-committers:
-  - gitcode_id: changxingOpenUBMC
-    name: 常德兴
-  - gitcode_id: yelvsub
-    name: 黄雷生
-  - gitcode_id: Damon_cc
-    name: 郝恒攀
-  - gitcode_id: owenqiu
-    name: 邱英东
-  - gitcode_id: WeliveWelove
-    name: 许强
 repositories:
-  - openUBMC/devmon
-  - openUBMC/libmcpp
-  - openUBMC/component_drivers
+  - repo:
+      - openUBMC/component_drivers
+    committers:
+      - gitcode_id: changxingOpenUBMC
+        name: 常德兴
+      - gitcode_id: yelvsub
+        name: 黄雷生
+  - repo:
+      - openUBMC/devmon
+      - openUBMC/libmcpp
+    committers:
+      - gitcode_id: Damon_cc
+        name: 郝恒攀
+      - gitcode_id: owenqiu
+        name: 邱英东
+      - gitcode_id: WeliveWelove
+        name: 许强
 meeting_agenda:
   - "1、讨论和评审部件驱动方案设计。"
   - "2、讨论和评审部件驱动架构方案。"
