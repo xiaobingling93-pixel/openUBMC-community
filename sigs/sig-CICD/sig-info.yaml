@@ -1,4 +1,4 @@
-name: sig-cicd
+name: sig-CICD
 description: "负责openUBMC社区软件工程相关的开发和维护"
 created_on: '2024-12-31'
 mailing_list: cicd@public.openubmc.cn
@@ -17,7 +17,7 @@ repositories:
       - openUBMC/manifest
       - openUBMC/conan_index
       - openUBMC/qemu
-  - committers:
+    committers:
       - gitcode_id: Larry_Li_006
         name: 李江
       - gitcode_id: xyzheng1122

@@ -1,4 +1,4 @@
-name: Infrastructure
+name: infrastructure
 description: "负责openUBMC社区基础设施建设和维护"
 created_on: '2024-12-31'
 mailing_list: infrastructure@public.openubmc.cn
