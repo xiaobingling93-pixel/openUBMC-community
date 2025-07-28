@@ -8,6 +8,8 @@ maintainers:
     name: 曹志
   - gitcode_id: zengchen1024
     name: 陈曾
+  - gitcode_id: zhongjun2
+    name: 钟君
 repositories:
   - repo:
       - openUBMC/infrastructure
