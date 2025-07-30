@@ -39,6 +39,16 @@ repositories:
     committers:
       - gitcode_id: sameeen
         name: 刘睿
+  - repo:
+      - openUBMC/ansible_plugin
+      - openUBMC/nagios_plugin
+      - openUBMC/zabbix_plugin
+      - openUBMC/cmdlets_plugin
+    committers:
+      - gitcode_id: jack20250125
+        name: 胡建
+      - gitcode_id: chenjiesong
+        name: 陈结松
 
 meeting_agenda:
   - "1、评审和管控资源协作接口变更方案。"

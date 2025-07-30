@@ -17,6 +17,7 @@ repositories:
       - openUBMC/manifest
       - openUBMC/conan_index
       - openUBMC/qemu
+      - openUBMC/bus_tools
     committers:
       - gitcode_id: Larry_Li_006
         name: 李江
