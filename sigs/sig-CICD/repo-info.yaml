@@ -13,3 +13,6 @@
 - name: qemu
   description: "qemu repo is the repository for managing a generic machine & userspace emulator and virtualizer."
   type: public
+- name: bus_tools
+  description: "Command line tool for accessing BMC bus resources, e.g. i2c"
+  type: public

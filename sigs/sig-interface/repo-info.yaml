@@ -19,3 +19,15 @@
 - name: observability
   description: "Provide BMC observability service"
   type: public
+- name: ansible_plugin
+  description: "Provide Ansible plugin for openUBMC Redfish protocol"
+  type: public
+- name: nagios_plugin
+  description: "Provide Nagios plugin for openUBMC SNMP interface"
+  type: public
+- name: zabbix_plugin
+  description: "Provide Zabbix XML for openUBMC SNMP interface"
+  type: public
+- name: cmdlets_plugin
+  description: "Provide cmdlets scripts for openUBMC Redfish protocol"
+  type: public

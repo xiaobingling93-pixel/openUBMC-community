@@ -30,6 +30,8 @@ openUBMC社区接口管理技术决策组织，负责接口管理流程制定与
 | cmt_xiangwei      | 项伟          |
 | sameeen           | 刘睿          |
 | yelvsub           | 黄雷生        |
+| jack20250125      | 胡建         |
+| chenjiesong       | 陈结松        |
 
 # 联系方式
 
