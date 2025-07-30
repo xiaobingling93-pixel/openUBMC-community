@@ -4,20 +4,44 @@ created_on: '2024-12-31'
 mailing_list: tc@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/TC
 maintainers:
-  - gitcode_id: zjp99
-    name: 章建平
-  - gitcode_id: huanghan
-    name: 黄晗
-  - gitcode_id: xiaoxinglxs
-    name: 刘兴森
-  - gitcode_id: TacoJay
-    name: 张超
-  - gitcode_id: nathanael
-    name: 于飞
-  - gitcode_id: zybwh
-    name: 张雨博
+  - gitcode_id: songtl
+    name: 宋铜铃
+  - gitcode_id: cmss_chenshihao
+    name: 陈士豪
   - gitcode_id: cylalpha
     name: 陈莹亮
+  - gitcode_id: zmcheng
+    name: 程子明
+  - gitcode_id: huanghan
+    name: 黄晗
+  - gitcode_id: tencent_huangjiaqing
+    name: 黄嘉庆
+  - gitcode_id: xiaoxinglxs
+    name: 刘兴森
+  - gitcode_id: wudigsp
+    name: 刘松
+  - gitcode_id: openUBMC-liuyujie
+    name: 刘宇杰
+  - gitcode_id: scl2025
+    name: 司昌谅
+  - gitcode_id: KunLun_wangqindong
+    name: 王钦东
+  - gitcode_id: yazhouwang
+    name: 王亚洲
+  - gitcode_id: lotus0007
+    name: 许晓菡
+  - gitcode_id: nathanael
+    name: 于飞
+  - gitcode_id: TacoJay
+    name: 张超
+  - gitcode_id: zjp99
+    name: 章建平
+  - gitcode_id: zybwh
+    name: 张雨博
+  - gitcode_id: zhaorui_r7
+    name: 赵锐
+  - gitcode_id: zhongjun2
+    name: 钟君
 repositories:
   - openUBMC/community
   - openUBMC/software-center-config
