@@ -3,6 +3,7 @@ description: "负责openUBMC社区上关于IPMI规范的传感器，上下电，
 created_on: '2024-12-31'
 mailing_list: bmccore@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-bmc-core
+discuss_url: https://discuss.openubmc.cn/c/sig-bmc-core
 maintainers:
   - gitcode_id: pengqiang-gs
     name: 彭强
