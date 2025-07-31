@@ -3,6 +3,7 @@ description: "负责openUBMC社区软件工程相关的开发和维护"
 created_on: '2024-12-31'
 mailing_list: cicd@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-CICD
+discuss_url: https://discuss.openubmc.cn/c/sig-cicd
 maintainers:
   - gitcode_id: xuhaijun
     name: 徐海军

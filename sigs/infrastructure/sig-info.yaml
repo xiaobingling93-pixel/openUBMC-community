@@ -3,6 +3,7 @@ description: "负责openUBMC社区基础设施建设和维护"
 created_on: '2024-12-31'
 mailing_list: infrastructure@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/infrastructure
+discuss_url: https://discuss.openubmc.cn/c/sig-infra
 maintainers:
   - gitcode_id: georgecao
     name: 曹志
