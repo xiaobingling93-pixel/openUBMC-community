@@ -31,6 +31,8 @@ repositories:
     committers:
       - gitcode_id: wwhh_wwhh
         name: 汪航
+      - gitcode_id: WeberChen
+        name: 陈奎霖
   - repo:
       - openUBMC/pcie_device
       - openUBMC/bios
@@ -60,6 +62,8 @@ repositories:
         name: 黄嘉培
       - gitcode_id: wwhh_wwhh
         name: 汪航
+      - gitcode_id: WeberChen
+        name: 陈奎霖
 meeting_agenda:
   - "1、讨论和评审部件管理特性方案。"
   - "2、讨论和评审部件管理架构方案。"
