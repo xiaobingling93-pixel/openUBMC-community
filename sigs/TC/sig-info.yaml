@@ -44,8 +44,9 @@ maintainers:
   - gitcode_id: zhongjun2
     name: 钟君
 repositories:
-  - openUBMC/community
-  - openUBMC/software-center-config
+  - repo:
+      - openUBMC/community
+      - openUBMC/software-center-config
 meeting_agenda:
   - "1、讨论和规划社区技术发展方向与愿景。"
   - "2、讨论和决策社区重大技术事项。"
