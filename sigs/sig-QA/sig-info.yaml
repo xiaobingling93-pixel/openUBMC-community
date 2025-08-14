@@ -7,7 +7,7 @@ discuss_url: https://discuss.openubmc.cn/c/sig-qa
 maintainers:
   - gitcode_id: nathanael
     name: 于飞
-  - gitcode_id: openubmc-lcyj
+  - gitcode_id: openUBMC-liuyujie
     name: 刘宇杰
 repositories:
   - repo:
