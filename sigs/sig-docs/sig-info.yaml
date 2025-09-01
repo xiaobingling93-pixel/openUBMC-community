@@ -9,8 +9,6 @@ maintainers:
     name: 张雨博
   - gitcode_id: zjp99
     name: 章建平
-  - gitcode_id: xuhaijun
-    name: 徐海军
 repositories:
   - repo:
       - openUBMC/docs
