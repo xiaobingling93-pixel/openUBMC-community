@@ -1,9 +1,9 @@
 - name: devmon
-  description: "Device monitoring app"
-  type: private
+  description: "Hardware device monitoring and management service"
+  type: public
 - name: libmcpp
-  description: "C++ framework library"
-  type: private
+  description: "Modern C++ framework library for BMC application development"
+  type: public
 - name: component_drivers
-  description: "Repo for openUBMC component drivers"
-  type: private
+  description: "Hardware component drivers framework with unified management interface"
+  type: public
