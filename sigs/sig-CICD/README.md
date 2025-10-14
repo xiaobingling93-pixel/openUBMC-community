@@ -16,7 +16,6 @@ sig-CICD负责社区软件工程能力建设，包括构建工具、仿真工具
 |gitcode id|real fullname|
 |--|--|
 |Polaris404|李睿宸|
-|xyzheng1122|郑新阳|
 |Larry_Li_006|李江|
 
 # 联系方式
