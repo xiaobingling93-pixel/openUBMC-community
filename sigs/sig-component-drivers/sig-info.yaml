@@ -37,6 +37,10 @@ repositories:
         name: 邱英东
       - gitcode_id: WeliveWelove
         name: 许强
+      - gitcode_id: zjp99
+        name: 章建平
+      - gitcode_id: yeluo12
+        name: 刘伟
 meeting_agenda:
   - "1、讨论和评审部件驱动方案设计。"
   - "2、讨论和评审部件驱动架构方案。"
