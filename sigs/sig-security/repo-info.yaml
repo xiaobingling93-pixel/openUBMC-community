@@ -4,3 +4,6 @@
 - name: iam_lite
   description: "Authentication and session service app"
   type: private
+- name: spdm
+  description: "Provide access capabilities related to the SPDM protocol"
+  type: public

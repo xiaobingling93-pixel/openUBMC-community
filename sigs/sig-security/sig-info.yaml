@@ -13,6 +13,7 @@ repositories:
   - repo:
       - openUBMC/account
       - openUBMC/iam_lite
+      - openUBMC/spdm
     committers:
       - gitcode_id: Free_Tomato
         name: 彭祥麟
