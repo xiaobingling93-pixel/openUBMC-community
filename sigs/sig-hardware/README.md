@@ -17,7 +17,6 @@
 | nathanael         | 于飞          |
 | changxingOpenUBMC | 常德兴        |
 | yelvsub           | 黄雷生        |
-| Damon_cc          | 郝恒攀        |
 
 ### Committer列表
 
@@ -25,7 +24,6 @@
 | ---------- | ------------- |
 | dli_bmc    | 李东辉        |
 | wwhh_wwhh  | 汪航          |
-| mao_0v0    | 毛宇浩        |
 | huangjiapei | 黄嘉培       |
 | WeberChen  | 陈奎霖        |
 | caiyesheng | 蔡业胜        |
