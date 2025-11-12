@@ -13,8 +13,6 @@ maintainers:
     name: 刘兴森
   - gitcode_id: nathanael
     name: 于飞
-  - gitcode_id: Damon_cc
-    name: 郝恒攀
 repositories:
   - repo:
       - openUBMC/rack_mgmt
@@ -23,8 +21,6 @@ repositories:
     committers:
       - gitcode_id: dli_bmc
         name: 李东辉
-      - gitcode_id: mao_0v0
-        name: 毛宇浩
   - repo:
       - openUBMC/power_mgmt
       - openUBMC/thermal_mgmt
@@ -49,15 +45,11 @@ repositories:
         name: 黄嘉培
       - gitcode_id: dli_bmc
         name: 李东辉
-      - gitcode_id: mao_0v0
-        name: 毛宇浩
   - repo:
       - openUBMC/vpd
     committers:
       - gitcode_id: dli_bmc
         name: 李东辉
-      - gitcode_id: mao_0v0
-        name: 毛宇浩
       - gitcode_id: huangjiapei
         name: 黄嘉培
       - gitcode_id: wwhh_wwhh
