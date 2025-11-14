@@ -19,6 +19,7 @@ repositories:
       - openUBMC/conan_index
       - openUBMC/qemu
       - openUBMC/bus_tools
+      - openUBMC/qemu_mockup
     committers:
       - gitcode_id: Larry_Li_006
         name: 李江

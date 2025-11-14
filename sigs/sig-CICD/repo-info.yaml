@@ -16,3 +16,6 @@
 - name: bus_tools
   description: "Command line tool for accessing BMC bus resources, e.g. i2c"
   type: public
+- name: qemu_mockup
+  description: "Manage qemu simulation data"
+  type: public
