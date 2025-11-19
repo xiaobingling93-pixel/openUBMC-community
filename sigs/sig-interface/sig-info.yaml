@@ -31,6 +31,7 @@ repositories:
       - openUBMC/profile_schema
       - openUBMC/libirc
       - openUBMC/observability
+      - openUBMC/dcmid
     committers:
       - gitcode_id: cmt_xiangwei
         name: 项伟

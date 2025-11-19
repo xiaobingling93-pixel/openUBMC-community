@@ -31,3 +31,6 @@
 - name: cmdlets_plugin
   description: "Provide cmdlets scripts for openUBMC Redfish protocol"
   type: public
+- name: dcmid
+  description: "Provide IPMI command execution capabilities fully compliant with DCMI specifications"
+  type: public
