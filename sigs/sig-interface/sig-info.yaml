@@ -32,6 +32,8 @@ repositories:
       - openUBMC/libirc
       - openUBMC/observability
       - openUBMC/dcmid
+      - openUBMC/vnc_proxy
+      - openUBMC/irc_client
     committers:
       - gitcode_id: cmt_xiangwei
         name: 项伟
