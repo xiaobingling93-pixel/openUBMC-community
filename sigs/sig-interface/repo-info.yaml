@@ -34,3 +34,9 @@
 - name: dcmid
   description: "Provide IPMI command execution capabilities fully compliant with DCMI specifications"
   type: public
+- name: vnc_proxy
+  description: "The vnc_proxy acts as a bridge, converting data from a VNC server's TCP port to the WebSocket protocol, enabling access from modern web browsers"
+  type: public
+- name: irc_client
+  description: "The Electron client framework integrates H5 KVM functionality"
+  type: public
