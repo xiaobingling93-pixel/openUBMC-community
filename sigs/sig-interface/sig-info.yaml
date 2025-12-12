@@ -53,6 +53,11 @@ repositories:
         name: 胡建
       - gitcode_id: chenjiesong
         name: 陈结松
+  - repo:
+      - openUBMC/lcd_console
+    committers:
+      - gitcode_id: baode_zhujunjie
+        name: 朱俊杰
 
 meeting_agenda:
   - "1、评审和管控资源协作接口变更方案。"
