@@ -18,13 +18,17 @@ repositories:
       - openUBMC/manifest
       - openUBMC/conan_index
       - openUBMC/qemu
-      - openUBMC/bus_tools
       - openUBMC/qemu_mockup
     committers:
       - gitcode_id: Larry_Li_006
         name: 李江
       - gitcode_id: Polaris404
         name: 李睿宸
+  - repo:
+      - openUBMC/bus_tools
+    committers:
+      - gitcode_id: luohao211737
+        name: 罗昊
 meeting_agenda:
   - "1、讨论和评审CICD、工程工具的技术方案。"
   - "2、培训和赋能软件工程能力。"
