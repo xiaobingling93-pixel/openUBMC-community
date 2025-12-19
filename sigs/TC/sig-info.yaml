@@ -1,5 +1,6 @@
 name: TC
 description: "负责openUBMC社区项目的技术管理，提供技术指导、决策和监督"
+description_en: "Manage and steer the technical direction of the openUBMC community project, providing technical guidance, decision-making, and long-term roadmap"
 created_on: '2024-12-31'
 mailing_list: tc@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/TC
@@ -41,6 +42,7 @@ maintainers:
     name: 章建平
   - gitcode_id: zybwh
     name: 张雨博
+    name_en: Yubo Zhang
   - gitcode_id: zhaorui_r7
     name: 赵锐
   - gitcode_id: zhongjun2
@@ -53,3 +55,7 @@ meeting_agenda:
   - "1、讨论和规划社区技术发展方向与愿景。"
   - "2、讨论和决策社区重大技术事项。"
   - "3、决策SIG组的建立和撤销，审视和辅导SIG组日常工作，协调SIG组间技术合作。"
+meeting_agenda_en:
+  - "1. Define and steer the community's technical roadmap and long-term vision."
+  - "2. Deliberate and make final decisions on the community's major technical initiatives."
+  - "3. Oversee the lifecycle of Special Interest Groups (SIGs), including their formation and retirement. Provide governance, daily guidance to SIGs, and facilitate cross-SIG technical collaboration. "

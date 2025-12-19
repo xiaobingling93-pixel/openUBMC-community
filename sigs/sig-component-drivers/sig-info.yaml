@@ -1,5 +1,6 @@
 name: sig-component-drivers
 description: "部件驱动-SIG致力于深耕部件驱动标准化，深化与部件厂商合作认证与部件规范联创，建设部件生态社区。通过建立统一的驱动接口规范和开发标准，构建硬件抽象层和驱动适配框架，实现多厂商硬件的统一管理和标准化接入。"
+description_en: "The Component Driver SIG is dedicated to advancing the standardization of component drivers, deepening collaborative certification with component vendors, and jointly establishing component specifications to build a thriving component ecosystem. By creating unified driver interface specifications and development standards, the SIG aims to develop a hardware abstraction layer and driver adaptation framework. This initiative enables unified management and standardized integration of multi-vendor hardware."
 created_on: '2025-06-20'
 mailing_list: componentdrivers@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-component-drivers
@@ -45,3 +46,7 @@ meeting_agenda:
   - "1、讨论和评审部件驱动方案设计。"
   - "2、讨论和评审部件驱动架构方案。"
   - "3、讨论和规划部件驱动的长期技术规划。"
+meeting_agenda_en:
+  - "1. Discuss and evaluate component driver design proposals."
+  - "2. Discuss and evaluate component driver architecture proposals."
+  - "3. Discuss and define the long-term technical roadmap for component drivers."

@@ -1,5 +1,6 @@
 name: sig-security
 description: "负责openUBMC安全的开发和维护"
+description_en: "Develop and maintain the openUBMC security features"
 created_on: '2024-12-31'
 mailing_list: security@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-security
@@ -21,3 +22,7 @@ meeting_agenda:
   - "1、评审安全组件技术方案。"
   - "2、评审社区安全架构方案。"
   - "3、评审社区安全事件策略。"
+meeting_agenda_en:
+  - "1. Review technical proposals for security components."
+  - "2. Review the community's security architecture proposals."
+  - "3. Review the community's security incident policies and response strategies."

@@ -1,5 +1,6 @@
 name: sig-docs
 description: "负责openUBMC社区文档的运作"
+description_en: "Develop and manage the communtiy documentation"
 created_on: '2024-12-31'
 mailing_list: docs@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-docs
@@ -7,6 +8,7 @@ discuss_url: https://discuss.openubmc.cn/c/site-tc/sig-docs
 maintainers:
   - gitcode_id: zybwh
     name: 张雨博
+    name_en: Yubo Zhang
   - gitcode_id: zjp99
     name: 章建平
 repositories:
@@ -22,3 +24,6 @@ repositories:
 meeting_agenda:
   - "1、讨论和接纳社区文档、博客贡献。"
   - "2、讨论和接纳社区文档诉求，并规划社区文档建设。"
+meeting_agenda_en:
+  - "1. Review and integrate community documentation and blogs."
+  - "2. Evaluate community documentation needs and plan the documentation roadmap."

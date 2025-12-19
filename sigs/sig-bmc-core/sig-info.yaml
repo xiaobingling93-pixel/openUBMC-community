@@ -1,5 +1,6 @@
 name: sig-bmc-core
 description: "负责openUBMC社区上关于IPMI规范的传感器，上下电，FRU数据等业务的开发和维护，以及openUBMC的服务部署管理（hica）"
+description_en: "Responsible for IPMI-based feature development (sensors, power sequencing, FRU data) and service deployment management in the openUBMC community"
 created_on: '2024-12-31'
 mailing_list: bmccore@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-bmc-core
@@ -34,3 +35,7 @@ meeting_agenda:
   - "1、讨论和评审openUBMC通用服务特性方案。"
   - "2、讨论和评审openUBMC通用服务架构方案。"
   - "3、讨论和规划openUBMC通用服务的长期技术规划。"
+meeting_agenda_en:
+  - "1. Review and evaluate technical proposals for OpenUBMC common services."
+  - "2. Review and evaluate architecture designs for OpenUBMC common services."
+  - "3. Develop and plan the long-term technical roadmap for OpenUBMC common services."

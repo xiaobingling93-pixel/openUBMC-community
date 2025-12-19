@@ -1,5 +1,6 @@
 name: sig-interface
 description: "负责openUBMC社区接口的开发和维护"
+description_en: "Develop and maintain the interfaces for openUBMC community such as Redfish, IPMI, SNMP, MDB Interface"
 created_on: '2024-12-31'
 mailing_list: interface@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-interface
@@ -63,3 +64,7 @@ meeting_agenda:
   - "1、评审和管控资源协作接口变更方案。"
   - "2、评审和管控openUBMC北向接口变更方案。"
   - "3、评审和管控组件导入导出配置Schema变更方案。"
+meeting_agenda_en:
+  - "1. Review and approve changes to resource collaboration interfaces."
+  - "2. Review and approve changes to OpenUBMC northbound interfaces."
+  - "3. Review and approve changes to component import/export configuration schemas."

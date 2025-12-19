@@ -1,5 +1,6 @@
 name: infrastructure
 description: "负责openUBMC社区基础设施建设和维护"
+description_en: "Develop and maintain the infrastructure for openUBMC community"
 created_on: '2024-12-31'
 mailing_list: infrastructure@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/infrastructure
@@ -34,3 +35,7 @@ meeting_agenda:
   - "1、讨论和接纳社区对基础设施的诉求。"
   - "2、讨论和评审基础设施服务的技术方案。"
   - "3、讨论和评审基础设施的长期规划。"
+meeting_agenda_en:
+  - "1. Review and incorporate community feedback on infrastructure needs."
+  - "2. Discuss and evaluate technical proposals for infrastructure services."
+  - "3. Discuss and review long-term infrastructure roadmaps."

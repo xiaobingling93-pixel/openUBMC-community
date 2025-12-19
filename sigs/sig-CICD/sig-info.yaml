@@ -1,5 +1,6 @@
 name: sig-CICD
 description: "负责openUBMC社区软件工程相关的开发和维护"
+description_en: "Develop and maintain CICD for openUBMC community"
 created_on: '2024-12-31'
 mailing_list: cicd@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-CICD
@@ -9,6 +10,7 @@ maintainers:
     name: 徐海军
   - gitcode_id: zybwh
     name: 张雨博
+    name_en: Yubo Zhang
   - gitcode_id: DataSculptor
     name: 王健
 repositories:
@@ -32,3 +34,6 @@ repositories:
 meeting_agenda:
   - "1、讨论和评审CICD、工程工具的技术方案。"
   - "2、培训和赋能软件工程能力。"
+meeting_agenda_en:
+  - "1. Review and evaluate technical solutions for CI/CD and engineering tools."
+  - "2. Provide training and build up software engineering capabilities."
