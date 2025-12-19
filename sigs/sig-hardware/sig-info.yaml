@@ -1,5 +1,6 @@
 name: sig-hardware
 description: "负责openUBMC社区硬件的开发和维护"
+description_en: "Develop and maintain the hardware management features for the openUBMC community"
 created_on: '2024-12-31'
 mailing_list: hardware@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-hardware
@@ -64,3 +65,7 @@ meeting_agenda:
   - "1、讨论和评审部件管理特性方案。"
   - "2、讨论和评审部件管理架构方案。"
   - "3、讨论和规划部件管理的长期技术规划。"
+meeting_agenda_en:
+  - "1. Discuss and evaluate component management feature proposals."
+  - "2. Discuss and evaluate component management architecture proposals."
+  - "3. Discuss and formulate long-term technical roadmaps for component management."

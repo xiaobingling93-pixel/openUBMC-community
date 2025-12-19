@@ -1,5 +1,6 @@
 name: sig-release-management
 description: "负责openUBMC版本发布和运作"
+description_en: "Manage the openUBMC community release and it's lifecycle"
 created_on: "2025-03-15"
 mailing_list: release-management@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-release-management
@@ -13,3 +14,7 @@ meeting_agenda:
   - "1、规划社区版本节点及需求范围。"
   - "2、跟踪社区版本过程进展，管控版本风险。"
   - "3、决策社区版本发布。"
+meeting_agenda_en:
+  - "1. Plan community release timelines and define feature scope."
+  - "2. Track community release progress and manage release risks."
+  - "3. Make release decisions for the community."
