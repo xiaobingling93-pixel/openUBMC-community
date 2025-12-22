@@ -25,8 +25,7 @@ sig-info.yaml 文件为yaml格式承载，包含如下基本元素：
 | mailing_list | 字符串 | SIG组讨论邮件列表地址 |
 | meeting_url | 字符串 | SIG例会纪要URL |
 | maintainers | 列表   | SIG组所有maintainer名单   |
-| committers | 列表 | SIG组所有committer名单    |
-| repositories | 列表   | SIG组所管辖的GitCode仓库信息 |
+| repositories | 列表   | SIG组所管辖的GitCode仓库信息，committers: 分配管理指定仓库集的committer名单 |
 
 注意：
 
@@ -45,6 +44,7 @@ sig-info.yaml 文件为yaml格式承载，包含如下基本元素：
 | 字段 | 类型 |  说明 |
 |--|--|--|
 | repo | 字符串 | 一组SIG仓库 |
+| committers | 列表 | 管理指定仓库集的committer名单 |
 
 
   4.maintainers和committers的职责划分
@@ -70,8 +70,18 @@ committers:
     name: zhuchao
     email: tom_toworld@163.com
 repositories:
-  - openUBMC-test/infrastructure
-  - openUBMC-test/openubmc-ci
+  - repo:
+      - openUBMC-test/infrastructure
+      - openUBMC-test/openubmc-ci
+    committers:
+      - gitcode_id: weixin2
+        name: chaoge
+        email: chaoge@163.com
+  - repo:
+      - openUBMC-test/bus_tools
+    committers:
+      - gitcode_id: luohao211737
+        name: luohao
 ```
 
 ### repo-info.yaml 文件格式
