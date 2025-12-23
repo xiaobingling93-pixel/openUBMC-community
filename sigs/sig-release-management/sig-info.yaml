@@ -10,6 +10,9 @@ maintainers:
     name: 方正波
   - gitcode_id: nathanael
     name: 于飞
+repositories:
+  - repo:
+      - openUBMC/release_management
 meeting_agenda:
   - "1、规划社区版本节点及需求范围。"
   - "2、跟踪社区版本过程进展，管控版本风险。"
