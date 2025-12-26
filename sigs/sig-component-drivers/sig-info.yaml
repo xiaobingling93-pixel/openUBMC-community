@@ -28,6 +28,8 @@ repositories:
         name: 常德兴
       - gitcode_id: yelvsub
         name: 黄雷生
+      - gitcode_id: net_swift_tianwen
+        name: 余天文
   - repo:
       - openUBMC/devmon
       - openUBMC/libmcpp
