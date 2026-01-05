@@ -24,20 +24,34 @@ repositories:
       - openUBMC/mdb_interface
       - openUBMC/rackmount
     committers:
-      - gitcode_id: cmt_xiangwei
-        name: 项伟
       - gitcode_id: yelvsub
         name: 黄雷生
-  - repo:      
+  - repo:
       - openUBMC/profile_schema
+    committers:    
+      - gitcode_id: aaronlee
+        name: 李四光
+      - gitcode_id: pengqiang-gs
+        name: 彭强
+  - repo:
       - openUBMC/libirc
-      - openUBMC/observability
-      - openUBMC/dcmid
       - openUBMC/vnc_proxy
       - openUBMC/irc_client
     committers:
-      - gitcode_id: cmt_xiangwei
-        name: 项伟
+      - gitcode_id: aaronlee
+        name: 李四光
+  - repo:
+      - openUBMC/observability
+    committers:
+      - gitcode_id: aaronlee
+        name: 李四光
+      - gitcode_id: WeliveWelove
+        name: 许强
+  - repo:
+      - openUBMC/dcmid
+    committers:
+      - gitcode_id: pengqiang-gs
+        name: 彭强
   - repo:
       - openUBMC/webui
       - openUBMC/web_online_help
@@ -50,8 +64,6 @@ repositories:
       - openUBMC/zabbix_plugin
       - openUBMC/cmdlets_plugin
     committers:
-      - gitcode_id: jack20250125
-        name: 胡建
       - gitcode_id: chenjiesong
         name: 陈结松
   - repo:
