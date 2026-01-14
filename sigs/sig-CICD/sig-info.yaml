@@ -21,6 +21,11 @@ repositories:
       - openUBMC/conan_index
       - openUBMC/qemu
       - openUBMC/qemu_mockup
+      - openUBMC/bmcstudio
+      - openUBMC/bmcstudio_core
+      - openUBMC/bmcstudio_ssh
+      - openUBMC/bmcstudio_wsl
+      - openUBMC/bmcstudio_dsl
     committers:
       - gitcode_id: Larry_Li_006
         name: 李江

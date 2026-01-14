@@ -19,3 +19,18 @@
 - name: qemu_mockup
   description: "Manage qemu simulation data"
   type: public
+- name: bmcstudio
+  description: "BMC Studio IDE builder project based on Vscodium"
+  type: private
+- name: bmcstudio_core
+  description: "BMC Studio IDE source based on code-OSS"
+  type: private
+- name: bmcstudio_ssh
+  description: "BMC Studio IDE SSH connect support extension based on OpenRemote-SSH"
+  type: private
+- name: bmcstudio_wsl
+  description: "BMC Studio IDE WSL connect support extension based on OpenRemote-WSL"
+  type: private
+- name: bmcstudio_dsl
+  description: "DSL Support for BMC Studio IDE"
+  type: private
