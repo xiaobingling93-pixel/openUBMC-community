@@ -1,6 +1,6 @@
 name: sig-bmc-core
-description: "负责openUBMC社区上关于IPMI规范的传感器，上下电，FRU数据等业务的开发和维护，以及openUBMC的服务部署管理（hica）"
-description_en: "Responsible for IPMI-based feature development (sensors, power sequencing, FRU data) and service deployment management in the openUBMC community"
+description: "负责 openUBMC 社区 BMC 的基础能力的开发和维护，致力于提供通用，易扩展，易维护的 BMC 基础能力集合"
+description_en: "Responsible for the development and maintenance of the basic feathers of the BMC, aiming to provide a set of BMC basic feathers that are common, easy to extend, and easy to maintain."
 created_on: '2024-12-31'
 mailing_list: bmccore@public.openubmc.cn
 meeting_url: https://etherpad.openubmc.cn/p/sig-bmc-core
@@ -31,11 +31,16 @@ repositories:
         name: 李晓宁
       - gitcode_id: spjisgood
         name: 孙培钧
+  - repo:
+      - openUBMC/libipmi
+    committers:
+      - gitcode_id: duzhou13
+        name: 王浩舟
 meeting_agenda:
-  - "1、讨论和评审openUBMC通用服务特性方案。"
-  - "2、讨论和评审openUBMC通用服务架构方案。"
-  - "3、讨论和规划openUBMC通用服务的长期技术规划。"
+  - "1、讨论和评审 openUBMC 通用基础能力特性方案。"
+  - "2、讨论和评审 openUBMC 通用基础能力架构方案。"
+  - "3、讨论和规划 openUBMC 通用基础能力的长期技术规划。"
 meeting_agenda_en:
-  - "1. Review and evaluate technical proposals for OpenUBMC common services."
-  - "2. Review and evaluate architecture designs for OpenUBMC common services."
-  - "3. Develop and plan the long-term technical roadmap for OpenUBMC common services."
+  - "1. Review and evaluate technical proposals for basic feathers."
+  - "2. Review and evaluate architecture designs for basic feathers."
+  - "3. Develop and plan the long-term technical roadmap for basic feathers."

@@ -13,6 +13,9 @@
 - name: bmc_datasync
   description: "Data synchronization management of multiple BMC entities"
   type: public
+- name: libipmi
+  description: "IPMI protocol stack and common capability library"
+  type: public
 - name: hica
   description: "SystemD startup configuration"
   type: public
