@@ -37,6 +37,7 @@ repositories:
       - openUBMC/libirc
       - openUBMC/vnc_proxy
       - openUBMC/irc_client
+      - openUBMC/libroute_mapper
     committers:
       - gitcode_id: aaronlee
         name: 李四光

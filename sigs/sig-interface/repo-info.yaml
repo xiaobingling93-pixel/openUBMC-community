@@ -43,3 +43,6 @@
 - name: lcd_console
   description: "LCD console interface for openUBMC"
   type: public
+- name: libroute_mapper
+  description: "Implements the mapping between interfaces and resource collaboration APIs"
+  type: public
