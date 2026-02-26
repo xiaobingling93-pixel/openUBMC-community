@@ -8,6 +8,7 @@ discuss_url: https://discuss.openubmc.cn/c/site-tc
 maintainers:
   - gitcode_id: songtl
     name: 宋铜铃
+    email: songtongling@huawei.com
   - gitcode_id: cmss_chenshihao
     name: 陈士豪
   - gitcode_id: cylalpha
@@ -18,10 +19,12 @@ maintainers:
     name: 黄晗
   - gitcode_id: tencent_huangjiaqing
     name: 黄嘉庆
+    email: jedhuang@tencent.com
   - gitcode_id: xiaoxinglxs
     name: 刘兴森
   - gitcode_id: wudigsp
     name: 刘松
+    email: liusong@schkzy.cn
   - gitcode_id: openUBMC-liuyujie
     name: 刘宇杰
   - gitcode_id: scl2025
@@ -30,6 +33,7 @@ maintainers:
     name: 王钦东
   - gitcode_id: yazhouwang
     name: 王亚洲
+    email: yzwang@kunluntech.com.cn
   - gitcode_id: tobiaswang
     name: 汪涛
   - gitcode_id: lotus0007
@@ -45,6 +49,7 @@ maintainers:
     name_en: Yubo Zhang
   - gitcode_id: zhaorui_r7
     name: 赵锐
+    email: zhaorui@semptian.com
   - gitcode_id: zhongjun2
     name: 钟君
 repositories:
