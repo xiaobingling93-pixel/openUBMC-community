@@ -77,6 +77,10 @@ repositories:
         name: 毛宇浩
       - gitcode_id: yelmh
         name: 黄明浩
+  - repo:
+      - openUBMC/compute_mgmt
+      - gitcode_id: JayYinXXX
+        name: 殷健
 meeting_agenda:
   - "1、讨论和评审部件管理特性方案。"
   - "2、讨论和评审部件管理架构方案。"

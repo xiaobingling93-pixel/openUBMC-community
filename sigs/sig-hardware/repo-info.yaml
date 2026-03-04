@@ -34,3 +34,6 @@
 - name: vpd
   description: "Data configurations of major products,models,and devices"
   type: public
+- name: compute_mgmt
+  description: "app to manage CPU, memory and other related devices"
+  type: public

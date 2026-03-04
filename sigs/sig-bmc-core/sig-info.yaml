@@ -10,13 +10,13 @@ maintainers:
     name: 彭强
   - gitcode_id: huanghan
     name: 黄晗
+  - gitcode_id: L_Ling
+    name: 李晓宁
 repositories:
   - repo:
       - openUBMC/fructrl
       - openUBMC/hica
     committers:
-      - gitcode_id: L_Ling
-        name: 李晓宁
       - gitcode_id: duzhou13
         name: 王浩舟
   - repo:
@@ -27,8 +27,6 @@ repositories:
     committers:
       - gitcode_id: duzhou13
         name: 王浩舟
-      - gitcode_id: L_Ling
-        name: 李晓宁
       - gitcode_id: spjisgood
         name: 孙培钧
   - repo:

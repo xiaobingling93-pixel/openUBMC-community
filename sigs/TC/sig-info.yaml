@@ -56,6 +56,7 @@ repositories:
   - repo:
       - openUBMC/community
       - openUBMC/software-center-config
+      - openUBMC/ccf_openubmc
 meeting_agenda:
   - "1、讨论和规划社区技术发展方向与愿景。"
   - "2、讨论和决策社区重大技术事项。"

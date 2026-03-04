@@ -1,0 +1,17 @@
+name: sig-ai
+description: "通过AI，降低社区门槛，提升社区开发效率，探索并落地大语言模型在服务器运维的创新应用，让BMC变得更智能，更易用。"
+description_en: "Welcome more contributors and empower developers through AI, while pioneering LLM innovations in server operations to make BMC smarter and more user-friendly."
+created_on: '2026-3-4'
+mailing_list: ai@public.openubmc.cn
+meeting_url: https://etherpad.openubmc.cn/p/sig-ai
+discuss_url: https://discuss.openubmc.cn/c/site-tc/sig-ai
+maintainers:
+  - gitcode_id: zybwh
+    name: 张雨博
+    name_en: Yubo Zhang
+meeting_agenda:
+  - "1、聚焦AI辅助开发，明确能力提升的具体场景与实现路径。"
+  - "2、探讨LLM在BMC领域的应用落地，规划技术方案与推广策略。"
+meeting_agenda_en:
+  - "1. Focus on AI-assisted development for the community."
+  - "2. Explore LLM applications in the BMC domain and define the roadmap."
