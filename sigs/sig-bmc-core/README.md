@@ -15,12 +15,12 @@
 |--|--|
 |huanghan|黄晗|
 |pengqiang-gs|彭强|
+|L_Ling|李晓宁|
 
 ## Committer列表
 
 |gitcode id|real fullname|
 |--|--|
-|L_Ling|李晓宁|
 |duzhou13|王浩舟|
 |spjisgood|孙培钧|
 

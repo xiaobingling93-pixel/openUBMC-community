@@ -4,3 +4,6 @@
 - name: software-center-config
   description: "Release config for openUBMC software center"
   type: public
+- name: ccf_openubmc
+  description: "Repository for openUBMC-related topics in the CCF Open-Source Contest"
+  type: public
