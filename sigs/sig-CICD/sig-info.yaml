@@ -49,6 +49,8 @@ repositories:
         name: 鄢川杰
       - gitcode_id: chendanming
         name: 陈丹明
+      - gitcode_id: zhangbaocun
+        name: 张保存
   - repo:
       - openUBMC/bus_tools
     committers:
