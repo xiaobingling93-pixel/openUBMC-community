@@ -17,8 +17,6 @@ repositories:
   - repo:
       - openUBMC/rootfs_user
       - openUBMC/bingo
-      - openUBMC/manifest
-      - openUBMC/conan_index
       - openUBMC/qemu
       - openUBMC/qemu_mockup
       - openUBMC/bmcstudio
@@ -31,6 +29,26 @@ repositories:
         name: 李江
       - gitcode_id: Polaris404
         name: 李睿宸
+  - repo:
+      - openUBMC/manifest
+      - openUBMC/conan_index
+    committers:
+      - gitcode_id: Larry_Li_006
+        name: 李江
+      - gitcode_id: Polaris404
+        name: 李睿宸
+      - gitcode_id: huangjiapei
+        name: 黄嘉培
+      - gitcode_id: WeberChen
+        name: 陈奎霖
+      - gitcode_id: ZanthoxylumLeaf
+        name: 黎乐轩
+      - gitcode_id: wwhh_wwhh
+        name: 汪航
+      - gitcode_id: loopvoid
+        name: 鄢川杰
+      - gitcode_id: chendanming
+        name: 陈丹明
   - repo:
       - openUBMC/bus_tools
     committers:
