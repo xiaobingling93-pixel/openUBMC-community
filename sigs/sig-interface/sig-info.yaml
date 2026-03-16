@@ -8,8 +8,6 @@ discuss_url: https://discuss.openubmc.cn/c/sig-interface
 maintainers:
   - gitcode_id: huanghan
     name: 黄晗
-  - gitcode_id: xiaoxinglxs
-    name: 刘兴森
   - gitcode_id: pengqiang-gs
     name: 彭强
   - gitcode_id: WeliveWelove
@@ -36,7 +34,6 @@ repositories:
   - repo:
       - openUBMC/libirc
       - openUBMC/vnc_proxy
-      - openUBMC/irc_client
     committers:
       - gitcode_id: aaronlee
         name: 李四光
@@ -62,6 +59,7 @@ repositories:
   - repo:
       - openUBMC/webui
       - openUBMC/web_online_help
+      - openUBMC/irc_client
     committers:
       - gitcode_id: sameeen
         name: 刘睿
