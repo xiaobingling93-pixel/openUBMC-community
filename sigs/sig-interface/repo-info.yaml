@@ -1,5 +1,5 @@
 - name: mdb_interface
-  description: "Resource collaboration APIs definition"
+  description: "openUBMC资源协作接口模型定义接口集合。Resource collaboration APIs definition"
   type: public
 - name: rackmount
   description: "Redfish/CLI/SNMP/Webrest interface mapping configurations for rackmount server"
