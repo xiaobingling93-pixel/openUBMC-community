@@ -5,5 +5,5 @@
   description: "Modern C++ framework library for BMC application development"
   type: public
 - name: component_drivers
-  description: "Hardware component drivers framework with unified management interface"
+  description: "基于服务器管理南向接口技术要求实现的部件驱动库。Hardware component drivers framework with unified management interface"
   type: public
