@@ -37,3 +37,6 @@
 - name: compute_mgmt
   description: "app to manage CPU, memory and other related devices"
   type: public
+- name: bcal
+  description: "BMC Chip Abstract Layer"
+  type: public

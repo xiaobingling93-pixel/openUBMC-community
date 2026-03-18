@@ -1,1 +1,3 @@
-
+- name: skills-marketplace
+  description: "Skills Marketplace for openUBMC"
+  type: public
