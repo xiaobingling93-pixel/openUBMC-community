@@ -79,6 +79,7 @@ repositories:
         name: 黄明浩
   - repo:
       - openUBMC/compute_mgmt
+    committers:
       - gitcode_id: JayYinXXX
         name: 殷健
   - repo:
