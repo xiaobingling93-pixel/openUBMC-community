@@ -9,9 +9,20 @@ maintainers:
   - gitcode_id: zybwh
     name: 张雨博
     name_en: Yubo Zhang
+  - gitcode_id: baode_qiuhao
+    name: 邱豪
+  - gitcode_id: fxx551
+    name: 范信鑫
+  - gitcode_id: Richardli25
+    name: 李兆天
+  - gitcode_id: zhenghaowei
+    name: 郑豪伟
 repositories:
   - repo:
       - openUBMC/skills-marketplace
+    committers:
+      - gitcode_id: luohao211737
+        name: 罗昊
 meeting_agenda:
   - "1、聚焦AI辅助开发，明确能力提升的具体场景与实现路径。"
   - "2、探讨LLM在BMC领域的应用落地，规划技术方案与推广策略。"
