@@ -40,3 +40,9 @@
 - name: bcal
   description: "BMC Chip Abstract Layer"
   type: public
+- name: vpd_ServerIndustry
+  description: "Data configurations of major products, models, and devices for server industry"
+  type: private
+- name: vpd_09040B0102
+  description: "Data configurations of major products, models, and devices for custom server only"
+  type: private
