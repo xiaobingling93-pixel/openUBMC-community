@@ -84,6 +84,18 @@ repositories:
         name: 殷健
   - repo:
       - openUBMC/bcal
+  - repo:
+      - openUBMC/vpd_ServerIndustry
+      - openUBMC/vpd_09040B0102
+    committers:
+      - gitcode_id: xiaoli_openuBMC
+        name: 李昆
+      - gitcode_id: xingtairong
+        name: 邢泰荣
+      - gitcode_id: LewisSean
+        name: 刘舜
+      - gitcode_id: Bitter_Jing
+        name: 华静静
 meeting_agenda:
   - "1、讨论和评审部件管理特性方案。"
   - "2、讨论和评审部件管理架构方案。"
