@@ -1,5 +1,5 @@
 name: sig-interface
-description: "负责openUBMC社区接口的开发和维护"
+description: "负责openUBMC社区接口的设计、开发和维护, 以及人员和工程能力建设, 并推动接口纳入标准和规范"
 description_en: "Develop and maintain the interfaces for openUBMC community such as Redfish, IPMI, SNMP, MDB Interface"
 created_on: '2024-12-31'
 mailing_list: interface@public.openubmc.cn
@@ -24,6 +24,8 @@ repositories:
     committers:
       - gitcode_id: yelvsub
         name: 黄雷生
+      - gitcode_id: L_Ling
+        name: 李晓宁
   - repo:
       - openUBMC/profile_schema
     committers:    
@@ -31,6 +33,8 @@ repositories:
         name: 李四光
       - gitcode_id: pengqiang-gs
         name: 彭强
+      - gitcode_id: L_Ling
+        name: 李晓宁        
   - repo:
       - openUBMC/libirc
       - openUBMC/vnc_proxy
@@ -56,6 +60,8 @@ repositories:
     committers:
       - gitcode_id: pengqiang-gs
         name: 彭强
+      - gitcode_id: L_Ling
+        name: 李晓宁        
   - repo:
       - openUBMC/webui
       - openUBMC/web_online_help
