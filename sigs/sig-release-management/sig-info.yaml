@@ -10,6 +10,8 @@ maintainers:
     name: 方正波
   - gitcode_id: nathanael
     name: 于飞
+  - gitcode_id: DataSculptor
+    name: 王健
 repositories:
   - repo:
       - openUBMC/release_management
